@@ -1,6 +1,6 @@
 # soccer-pass-dribble-prediction
 
-# How to use (On MacOS atleast)
+## How to use (On MacOS atleast)
 - Make sure you have conda installed: https://docs.anaconda.com/anaconda/install/
 - Create a conda environment for this project: conda create --name deep_learning_project python=3.9
 - Activate the enviroment: conda activate deep_learning_project
