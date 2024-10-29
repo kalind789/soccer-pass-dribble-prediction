@@ -33,6 +33,7 @@ htmlcov/
 # CSV files and raw clips (specific to your project)
 *.csv
 raw_clips/
+*.mp4
 
 # Local settings and database files
 db.sqlite3
