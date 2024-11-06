@@ -31,7 +31,6 @@ htmlcov/
 .pytest_cache/
 
 # CSV files and raw clips (specific to your project)
-*.csv
 raw_clips/
 *.mp4
 
