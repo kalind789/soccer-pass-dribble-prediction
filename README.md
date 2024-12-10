@@ -8,7 +8,7 @@ We manually labeled 2k+ clips from soccer games to train our model. We used a pr
 - model-dev.ipynb contains the pipeline for fine-tuning the model and evaluating baseline and fine-tuned model accuracy. 
 - data-collection.ipynb contains the pipeline for manually labeling the soccer clips.
 
-### How to use
+### Set up
 - Make sure you have conda installed: https://docs.anaconda.com/anaconda/install/
 - Create a conda environment for this project: conda create --name deep_learning_project python=3.9
 - Activate the enviroment: conda activate deep_learning_project
